@@ -137,5 +137,18 @@
         "github": "https://github.com/muditgarg48/lets_discover_web",
         "deployment": "https://muditgarg48.github.io/lets_discover_web/",
         "other_btns": []
+    },
+    {
+        "name": "High School Mini-Projects",
+        "desc": "A collection of my high school mini-projects, made using Java and BlueJ, showcasing my object-oriented programming skills and problem-solving abilities in the early days.",
+        "speciality": "",
+        "image": "",
+        "tech_stack": [
+            "Java SE 8",
+            "BlueJ"
+        ],
+        "github": "https://github.com/muditgarg48/high_school_java",
+        "deployment": "",
+        "other_btns": []
     }
 ]
