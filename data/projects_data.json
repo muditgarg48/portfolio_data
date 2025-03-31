@@ -3,7 +3,7 @@
         "name": "Candle in Dark",
         "desc": "A cross platform Flutter app designed to help international students at Trinity College Dublin seamlessly adapt to their new country and environment.",
         "speciality": "Featured App",
-        "image": "candle_in_dark.png",
+        "image": "https://muditgarg48.github.io/portfolio_data/images/project_imgs/candle_in_dark.png",
         "tech_stack": [
             "Flutter",
             "Firebase",
@@ -17,7 +17,7 @@
         "name": "Portfolio React Application",
         "desc": "An interactive personal portfolio website showcasing my skills, projects, and professional journey in a sleek and modern design.",
         "speciality": "Portfolio Website",
-        "image": "portfolio_react_app.png",
+        "image": "https://muditgarg48.github.io/portfolio_data/images/project_imgs/portfolio_react_app.png",
         "tech_stack": [
             "React",
             "npm",
@@ -51,7 +51,7 @@
         "name": "Gesture based Device Control",
         "desc": "A gesture-based smart device control system that uses your device's camera to learn and recognize gestures, enabling seamless interaction with smart devices in the future.",
         "speciality": "Final Year Project",
-        "image": "gesture_based_device_control.png",
+        "image": "https://muditgarg48.github.io/portfolio_data/images/project_imgs/gesture_based_device_control.png",
         "tech_stack": [
             "Python",
             "Jupyter",
@@ -110,7 +110,7 @@
         "name": "Meet A.L.F.R.E.D.",
         "desc": "A RAG based chatbot on my portfolio website that uses LLMs to provide human-like responses to queries about my professional background, based on various personal data files.",
         "speciality": "RAG Backend Server",
-        "image": "alfred_rag_chat.png",
+        "image": "https://muditgarg48.github.io/portfolio_data/images/project_imgs/alfred_rag_chat.png",
         "tech_stack": [
             "Python",
             "Flask",
