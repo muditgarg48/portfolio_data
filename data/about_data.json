@@ -1,0 +1,54 @@
+{
+    "intro_para": "As an upcoming Software Engineer, I am passionate about building efficient and scalable solutions that measurably improve business outcomes, while also adopting a growth mindset and willingness to learn anything that makes me a better engineer. I have a proven track record of producing such improvements, both as an individual contributor and as a team collaborator. Due to my passion for my field, I have a strong work ethic which makes me a valuable asset to every team I join. I consistently strive toward perfection and always keep my codebase clean, readable, and modular. What I lack in experience, I make up in my industry-standard project work with a properly structured, modular codebase and well-documented repository",
+    "basic_info": [
+        {
+            "title": "Work Status",
+            "content": "#OpenToWork"
+        },
+        {
+            "title": "Based In",
+            "content": "Dublin, Ireland"
+        },
+        {
+            "title": "Visa Status",
+            "content": "Irish Stamp 1G",
+            "footer": "valid till 2026"
+        },
+        {
+            "title": "Open to Relocation",
+            "content": "Yes",
+            "footer": "assistance required"
+        }
+    ],
+    "currently": [
+        {
+            "text": "Sharpening my knowledge on various data structures and algorithms for performance optimising solutions",
+            "links": []
+        }, 
+        {
+            "text": "Diving into the concepts of System Architecture Design and Low Level Programming for an in-depth knowledge about the various components employed in a system",
+            "links": []
+        }
+    ],
+    "recently_concluded": [
+        {
+            "text": "My Postgraduation from Trinity College Dublin in 2024.",
+            "links": []
+        }, 
+        {
+            "text": "Certified exploration of theoretical and practical aspects of LLMs, Generative AI and RAG systems. Also explored the ethics and concerns surrounding the use of GenAI systems. Gained certificates can be viewed here [1].",
+            "links": [
+                "https://muditgarg48.github.io#certificates-section"
+            ]
+        }, 
+        {
+            "text": "Concluded the implementation of a personal chatbot named A.L.F.R.E.D. [1] at the end of my portfolio website to provide human-like responses to queries about my professional background.",
+            "links": [
+                "https://muditgarg48.github.io#chatbot-section"
+            ]
+        }
+    ],
+    "outer_para": "I am always eager to collaborate on solving problems and contributing to the growth of a cause. Feel free to contact me via LinkedIn or email.",
+    "portrait_link": "https://muditgarg48.github.io/portfolio_data/images/myself.jpg",
+    "my_quote": "Lets hope for the best and plan for the worst"
+}
