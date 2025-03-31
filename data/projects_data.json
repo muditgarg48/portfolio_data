@@ -121,5 +121,21 @@
         "github": "https://github.com/muditgarg48/self-rag-system",
         "deployment": "https://muditgarg48.github.io/#chatbot-section",
         "other_btns": []
+    },
+    {
+        "name": "Lets Discover Web",
+        "desc": "A fun Flutter website that randomly redirects you to an interesting page every time you want it to. It was my attempt to understand and practise Flutter Web to incorporate it into my future projects.",
+        "speciality": "",
+        "image": "",
+        "tech_stack": [
+            "Flutter",
+            "Dart",
+            "JavaScript",
+            "CSS",
+            "HTML"
+        ],
+        "github": "https://github.com/muditgarg48/lets_discover_web",
+        "deployment": "https://muditgarg48.github.io/lets_discover_web/",
+        "other_btns": []
     }
 ]
