@@ -3,12 +3,12 @@
         "name": "General Motors",
         "domain": "gm.com",
         "website": "https://gm.com",
-        "role": "Advanced Software Developer Intern",
+        "role": "Software Engineer Intern",
         "desc": [
-            "Worked on an API-based emailing service that sends weekly emails with vital information about their projects at the start of their business week. Improved the code quality and performance by about 94%.",
-            "Improved the UI of a bot service based on Microsoft Teams that informs fellow developers in the organization about the projects they are working on.",
-            "Perform major contributions to the development of the unified website for my project and develop various components of the website while playing a very critical role in developing the idea for the design of the website for better user experience.",
-            "Improved the usability and user-friendliness of a crucial Power BI organization report with various additions and improvements to how the data is displayed to make the interpretation easy."
+            "Collaborated on Java and Springboot based project with a team of 6 talented engingeers, improving the performance of a microservice by about 96.4% and reducing it's tech debt by 23%.",
+            "Improved the UI of a Teams bot service, improving it's effectiveness for the stakeholders by 25% (survey-based).",
+            "Spearheading the development of a new front-end architecture for our project's unified website, streamlining the UI/UX using best industrial practises, resulting in a 15% increase in user engagement as compared to the previous iteration, without any increase in cost.",
+            "Improved the usability and user-friendliness of crucial Power BI reports, optimising screen real estate usage, decreasing the number of reports required for the same data by 33%."
         ],
         "start": "Jan '23",
         "end": "Aug '23",
@@ -16,7 +16,8 @@
             "Java",
             "Springboot",
             "Maven",
-            "IntelliJ IDEA",
+            "GraphQL",
+            "PostgreSQL",
             "Docker",
             "Kubernetes",
             "Azure DevOps",
