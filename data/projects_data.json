@@ -1,5 +1,24 @@
 [
     {
+        "name": "RaDAR: Resume and JD Analyzer",
+        "desc": "A useful tool to help candidates with application process like resume improvement, job description analysis and key word extraction, etc.",
+        "speciality": "",
+        "image": "",
+        "tech_stack": [
+            "React",
+            "npm",
+            "JavaScript",
+            "GitHub Pages",
+            "Python",
+            "Flask",
+            "LangChain",
+            "Gemini API"
+        ],
+        "github": "https://github.com/muditgarg48/radar_frontend",
+        "deployment": "https://muditgarg48.github.io/radar_frontend/",
+        "other_btns": []
+    },
+    {
         "name": "Candle in Dark",
         "desc": "A cross platform Flutter app designed to help international students at Trinity College Dublin seamlessly adapt to their new country and environment.",
         "speciality": "Featured App",
