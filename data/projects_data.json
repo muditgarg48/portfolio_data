@@ -19,38 +19,20 @@
         "other_btns": []
     },
     {
-        "name": "Candle in Dark",
-        "desc": "A cross platform Flutter app designed to help international students at Trinity College Dublin seamlessly adapt to their new country and environment.",
-        "speciality": "Featured App",
-        "image": "https://muditgarg48.github.io/portfolio_data/images/project_imgs/candle_in_dark.png",
+        "name": "Meet A.L.F.R.E.D.",
+        "desc": "A RAG based chatbot on my portfolio website that uses LLMs to provide human-like responses to queries about my professional background, based on various personal data files.",
+        "speciality": "RAG Backend Server",
+        "image": "https://muditgarg48.github.io/portfolio_data/images/project_imgs/alfred_rag_chat.png",
         "tech_stack": [
-            "Flutter",
-            "Firebase",
-            "Google Cloud"
+            "Python",
+            "Flask",
+            "ChromaDB",
+            "LangChain",
+            "Gemini API"
         ],
-        "github": "https://github.com/muditgarg48/candle_in_dark_web",
-        "deployment": "https://muditgarg48.github.io/candle_in_dark_web/",
+        "github": "https://github.com/muditgarg48/self-rag-system",
+        "deployment": "https://muditgarg48.github.io/#chatbot-section",
         "other_btns": []
-    },
-    {
-        "name": "Portfolio React Application",
-        "desc": "An interactive personal portfolio website showcasing my skills, projects, and professional journey in a sleek and modern design.",
-        "speciality": "Portfolio Website",
-        "image": "https://muditgarg48.github.io/portfolio_data/images/project_imgs/portfolio_react_app.png",
-        "tech_stack": [
-            "React",
-            "npm",
-            "JavaScript",
-            "GitHub Pages"
-        ],
-        "github": "https://github.com/muditgarg48/muditgarg48.github.io",
-        "deployment": "https://muditgarg48.github.io",
-        "other_btns": [
-            {
-                "text": "v1",
-                "github": "https://muditgarg48-v1.onrender.com/"
-            }
-        ]
     },
     {
         "name": "Weather Bucket",
@@ -93,6 +75,26 @@
         ]
     },
     {
+        "name": "Portfolio React Application",
+        "desc": "An interactive personal portfolio website showcasing my skills, projects, and professional journey in a sleek and modern design.",
+        "speciality": "Portfolio Website",
+        "image": "https://muditgarg48.github.io/portfolio_data/images/project_imgs/portfolio_react_app.png",
+        "tech_stack": [
+            "React",
+            "npm",
+            "JavaScript",
+            "GitHub Pages"
+        ],
+        "github": "https://github.com/muditgarg48/muditgarg48.github.io",
+        "deployment": "https://muditgarg48.github.io",
+        "other_btns": [
+            {
+                "text": "v1",
+                "github": "https://muditgarg48-v1.onrender.com/"
+            }
+        ]
+    },
+    {
         "name": "Peer to Peer Vehicular Emergency Network",
         "desc": "A command-line based peer-to-peer networking system for vehicular emergencies, enabling seamless communication between vehicles, pedestrians, and emergency responders.",
         "speciality": "",
@@ -126,19 +128,17 @@
         "other_btns": []
     },
     {
-        "name": "Meet A.L.F.R.E.D.",
-        "desc": "A RAG based chatbot on my portfolio website that uses LLMs to provide human-like responses to queries about my professional background, based on various personal data files.",
-        "speciality": "RAG Backend Server",
-        "image": "https://muditgarg48.github.io/portfolio_data/images/project_imgs/alfred_rag_chat.png",
+        "name": "Candle in Dark",
+        "desc": "A cross platform Flutter app designed to help international students at Trinity College Dublin seamlessly adapt to their new country and environment.",
+        "speciality": "Featured App",
+        "image": "https://muditgarg48.github.io/portfolio_data/images/project_imgs/candle_in_dark.png",
         "tech_stack": [
-            "Python",
-            "Flask",
-            "ChromaDB",
-            "LangChain",
-            "Gemini API"
+            "Flutter",
+            "Firebase",
+            "Google Cloud"
         ],
-        "github": "https://github.com/muditgarg48/self-rag-system",
-        "deployment": "https://muditgarg48.github.io/#chatbot-section",
+        "github": "https://github.com/muditgarg48/candle_in_dark_web",
+        "deployment": "https://muditgarg48.github.io/candle_in_dark_web/",
         "other_btns": []
     },
     {
