@@ -6,13 +6,15 @@
         "image": "",
         "tech_stack": [
             "React",
+            "Vite",
             "npm",
-            "JavaScript",
+            "JSX",
             "GitHub Pages",
             "Python",
             "Flask",
             "LangChain",
-            "Gemini API"
+            "Gemini API",
+            "GCP"
         ],
         "github": "https://github.com/muditgarg48/radar_frontend",
         "deployment": "https://muditgarg48.github.io/radar_frontend/",
