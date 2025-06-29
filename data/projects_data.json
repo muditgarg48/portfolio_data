@@ -6,6 +6,7 @@
         "image": "",
         "tech_stack": [
             "React",
+            "Redux",
             "Vite",
             "npm",
             "JSX",
