@@ -17,19 +17,10 @@
             "Gemini 2.5 Flash API",
             "GCP"
         ],
-        "kpis": [
-            {
-                "icon": "improve_kpi.json",
-                "stat": "95% faster application tailoring"
-            }, 
-            {
-                "icon": "time_kpi.json",
-                "stat": "<5 insights generation"
-            },
-            {
-                "icon": "accuracy_kpi.json",
-                "stat": "98% info extraction accuracy"
-            }
+        "kpis": [ 
+            "⚡ 95% faster application tailoring",
+            "🕐 <5s insights generation",
+            "🎯 98% info extraction accuracy"
         ],
         "github": "https://github.com/muditgarg48/radar_frontend",
         "deployment": "https://muditgarg48.github.io/radar_frontend/",
@@ -47,19 +38,10 @@
             "LangChain",
             "Gemini 1.5 Flash API"
         ],
-        "kpis": [
-            {
-                "icon": "improve_kpi.json",
-                "stat": "95% faster application tailoring"
-            }, 
-            {
-                "icon": "time_kpi.json",
-                "stat": "<5 insights generation"
-            },
-            {
-                "icon": "accuracy_kpi.json",
-                "stat": "98% info extraction accuracy"
-            }
+        "kpis": [ 
+            "⚡ 95% faster application tailoring",
+            "🕐 <5s insights generation",
+            "🎯 98% info extraction accuracy"
         ],
         "github": "https://github.com/muditgarg48/self-rag-system",
         "deployment": "https://muditgarg48.github.io/#chatbot-section",
@@ -75,19 +57,10 @@
             "JavaScript ES6",
             "OpenWeather API"
         ],
-        "kpis": [
-            {
-                "icon": "improve_kpi.json",
-                "stat": "95% faster application tailoring"
-            }, 
-            {
-                "icon": "time_kpi.json",
-                "stat": "<5 insights generation"
-            },
-            {
-                "icon": "accuracy_kpi.json",
-                "stat": "98% info extraction accuracy"
-            }
+        "kpis": [ 
+            "⚡ 95% faster application tailoring",
+            "🕐 <5s insights generation",
+            "🎯 98% info extraction accuracy"
         ],
         "github": "https://github.com/muditgarg48/weather_bucket",
         "deployment": "https://weather-bucket.onrender.com/",
@@ -106,19 +79,10 @@
             "Numpy",
             "OpenCV"
         ],
-        "kpis": [
-            {
-                "icon": "improve_kpi.json",
-                "stat": "95% faster application tailoring"
-            }, 
-            {
-                "icon": "time_kpi.json",
-                "stat": "<5 insights generation"
-            },
-            {
-                "icon": "accuracy_kpi.json",
-                "stat": "98% info extraction accuracy"
-            }
+        "kpis": [ 
+            "⚡ 95% faster application tailoring",
+            "🕐 <5s insights generation",
+            "🎯 98% info extraction accuracy"
         ],
         "github": "https://github.com/muditgarg48/gesture_based_device_control",
         "deployment": "https://muditgarg48.github.io/portfolio_data/documents/FYP Dissertation.pdf",
@@ -144,19 +108,10 @@
             "JavaScript ES6",
             "GitHub Pages"
         ],
-        "kpis": [
-            {
-                "icon": "improve_kpi.json",
-                "stat": "95% faster application tailoring"
-            }, 
-            {
-                "icon": "time_kpi.json",
-                "stat": "<5 insights generation"
-            },
-            {
-                "icon": "accuracy_kpi.json",
-                "stat": "98% info extraction accuracy"
-            }
+        "kpis": [ 
+            "⚡ 95% faster application tailoring",
+            "🕐 <5s insights generation",
+            "🎯 98% info extraction accuracy"
         ],
         "github": "https://github.com/muditgarg48/muditgarg48.github.io",
         "deployment": "https://muditgarg48.github.io",
@@ -175,19 +130,10 @@
         "tech_stack": [
             "Python 3"
         ],
-        "kpis": [
-            {
-                "icon": "improve_kpi.json",
-                "stat": "95% faster application tailoring"
-            }, 
-            {
-                "icon": "time_kpi.json",
-                "stat": "<5 insights generation"
-            },
-            {
-                "icon": "accuracy_kpi.json",
-                "stat": "98% info extraction accuracy"
-            }
+        "kpis": [ 
+            "⚡ 95% faster application tailoring",
+            "🕐 <5s insights generation",
+            "🎯 98% info extraction accuracy"
         ],
         "github": "https://github.com/muditgarg48/p2p-vehicular-network",
         "deployment": "",
@@ -210,19 +156,10 @@
             "HTML5",
             "Bootstrap"
         ],
-        "kpis": [
-            {
-                "icon": "improve_kpi.json",
-                "stat": "95% faster application tailoring"
-            }, 
-            {
-                "icon": "time_kpi.json",
-                "stat": "<5 insights generation"
-            },
-            {
-                "icon": "accuracy_kpi.json",
-                "stat": "98% info extraction accuracy"
-            }
+        "kpis": [ 
+            "⚡ 95% faster application tailoring",
+            "🕐 <5s insights generation",
+            "🎯 98% info extraction accuracy"
         ],
         "github": "https://github.com/muditgarg48/tinkercad_projects",
         "deployment": "https://muditgarg48.github.io/tinkercad_projects/",
@@ -239,19 +176,10 @@
             "Firebase",
             "Google Cloud"
         ],
-        "kpis": [
-            {
-                "icon": "improve_kpi.json",
-                "stat": "95% faster application tailoring"
-            }, 
-            {
-                "icon": "time_kpi.json",
-                "stat": "<5 insights generation"
-            },
-            {
-                "icon": "accuracy_kpi.json",
-                "stat": "98% info extraction accuracy"
-            }
+        "kpis": [ 
+            "⚡ 95% faster application tailoring",
+            "🕐 <5s insights generation",
+            "🎯 98% info extraction accuracy"
         ],
         "github": "https://github.com/muditgarg48/candle_in_dark_web",
         "deployment": "https://muditgarg48.github.io/candle_in_dark_web/",
@@ -269,19 +197,10 @@
             "CSS3",
             "HTML5"
         ],
-        "kpis": [
-            {
-                "icon": "improve_kpi.json",
-                "stat": "95% faster application tailoring"
-            }, 
-            {
-                "icon": "time_kpi.json",
-                "stat": "<5 insights generation"
-            },
-            {
-                "icon": "accuracy_kpi.json",
-                "stat": "98% info extraction accuracy"
-            }
+        "kpis": [ 
+            "⚡ 95% faster application tailoring",
+            "🕐 <5s insights generation",
+            "🎯 98% info extraction accuracy"
         ],
         "github": "https://github.com/muditgarg48/lets_discover_web",
         "deployment": "https://muditgarg48.github.io/lets_discover_web/",
@@ -296,19 +215,10 @@
             "Java SE 8",
             "BlueJ"
         ],
-        "kpis": [
-            {
-                "icon": "improve_kpi.json",
-                "stat": "95% faster application tailoring"
-            }, 
-            {
-                "icon": "time_kpi.json",
-                "stat": "<5 insights generation"
-            },
-            {
-                "icon": "accuracy_kpi.json",
-                "stat": "98% info extraction accuracy"
-            }
+        "kpis": [ 
+            "⚡ 95% faster application tailoring",
+            "🕐 <5s insights generation",
+            "🎯 98% info extraction accuracy"
         ],
         "github": "https://github.com/muditgarg48/high_school_java",
         "deployment": "",
