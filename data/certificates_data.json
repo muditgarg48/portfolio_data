@@ -14,8 +14,8 @@
         "verification_link": "https://insidesherpa.s3.amazonaws.com/completion-certificates/JP%20Morgan/R5iK7HMxJGBgaSbvk_JPMorgan%20Chase_xHXobkaGMrhrFY8S9_completion_certificate.pdf",
         "topics": [
             "Git",
-            "Python",
-            "React",
+            "Python 3",
+            "React 16",
             "Typescript"
         ]
     },
@@ -35,7 +35,7 @@
         "topics": [
             "IT Support",
             "Troubleshooting",
-            "Linux"
+            "Linux Terminal"
         ]
     },
     {
@@ -51,7 +51,7 @@
         "cert_id": "AD0CE4699EEB",
         "verification_link": "https://www.hackerrank.com/certificates/ad0ce4699eeb",
         "topics": [
-            "Python",
+            "Python 3",
             "Problem Solving"
         ]
     },

@@ -5,16 +5,16 @@
         "speciality": "One Stop Job Hunting Tool",
         "image": "https://muditgarg48.github.io/portfolio_data/images/project_imgs/radar.png",
         "tech_stack": [
-            "React",
+            "React 19",
             "Redux",
             "Vite",
             "npm",
             "JSX",
             "GitHub Pages",
-            "Python",
+            "Python 3",
             "Flask",
             "LangChain",
-            "Gemini API",
+            "Gemini 2.5 Flash API",
             "GCP"
         ],
         "github": "https://github.com/muditgarg48/radar_frontend",
@@ -27,11 +27,11 @@
         "speciality": "RAG Backend Server",
         "image": "https://muditgarg48.github.io/portfolio_data/images/project_imgs/alfred_rag_chat.png",
         "tech_stack": [
-            "Python",
+            "Python 3",
             "Flask",
             "ChromaDB",
             "LangChain",
-            "Gemini API"
+            "Gemini 1.5 Flash API"
         ],
         "github": "https://github.com/muditgarg48/self-rag-system",
         "deployment": "https://muditgarg48.github.io/#chatbot-section",
@@ -44,7 +44,7 @@
         "image": "",
         "tech_stack": [
             "Vue 3",
-            "JavaScript",
+            "JavaScript ES6",
             "OpenWeather API"
         ],
         "github": "https://github.com/muditgarg48/weather_bucket",
@@ -57,7 +57,7 @@
         "speciality": "Final Year Project",
         "image": "https://muditgarg48.github.io/portfolio_data/images/project_imgs/gesture_based_device_control.png",
         "tech_stack": [
-            "Python",
+            "Python 3",
             "Jupyter",
             "Mediapipe",
             "Tensorflow",
@@ -83,9 +83,9 @@
         "speciality": "Portfolio Website",
         "image": "https://muditgarg48.github.io/portfolio_data/images/project_imgs/portfolio_react_app.png",
         "tech_stack": [
-            "React",
+            "React 19",
             "npm",
-            "JavaScript",
+            "JavaScript ES6",
             "GitHub Pages"
         ],
         "github": "https://github.com/muditgarg48/muditgarg48.github.io",
@@ -103,7 +103,7 @@
         "speciality": "",
         "image": "",
         "tech_stack": [
-            "Python"
+            "Python 3"
         ],
         "github": "https://github.com/muditgarg48/p2p-vehicular-network",
         "deployment": "",
@@ -122,8 +122,8 @@
         "tech_stack": [
             "Arduino",
             "TinkerCAD",
-            "C++",
-            "HTML",
+            "C++17",
+            "HTML5",
             "Bootstrap"
         ],
         "github": "https://github.com/muditgarg48/tinkercad_projects",
@@ -136,7 +136,8 @@
         "speciality": "Featured App",
         "image": "https://muditgarg48.github.io/portfolio_data/images/project_imgs/candle_in_dark.png",
         "tech_stack": [
-            "Flutter",
+            "Flutter 3",
+            "Dart 3",
             "Firebase",
             "Google Cloud"
         ],
@@ -150,11 +151,11 @@
         "speciality": "",
         "image": "",
         "tech_stack": [
-            "Flutter",
-            "Dart",
-            "JavaScript",
-            "CSS",
-            "HTML"
+            "Flutter 3",
+            "Dart 3",
+            "JavaScript ES6",
+            "CSS3",
+            "HTML5"
         ],
         "github": "https://github.com/muditgarg48/lets_discover_web",
         "deployment": "https://muditgarg48.github.io/lets_discover_web/",

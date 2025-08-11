@@ -13,8 +13,8 @@
         "start": "Jan '23",
         "end": "Aug '23",
         "tech": [
-            "Java",
-            "Springboot",
+            "Java SE 22",
+            "Springboot 2.7",
             "Maven",
             "GraphQL",
             "PostgreSQL",
