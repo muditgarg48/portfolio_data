@@ -20,6 +20,24 @@
             "footer": "assistance required"
         }
     ],
+    "contact_info": [
+        {
+            "title": "LinkedIn",
+            "link": "https://www.linkedin.com/in/muditgarg48/"
+        },
+        {
+            "title": "GitHub",
+            "link": "https://github.com/muditgarg48"
+        },
+        {
+            "title": "Email",
+            "link": "mailto:gargmu@tcd.ie"
+        },
+        {
+            "title": "Portfolio Website",
+            "link": "https://muditgarg48.github.io/"
+        }
+    ],
     "currently": [
         {
             "text": "Sharpening my knowledge on various data structures and algorithms for performance optimising solutions",
