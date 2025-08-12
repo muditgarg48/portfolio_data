@@ -38,10 +38,10 @@
             "LangChain",
             "Gemini 1.5 Flash API"
         ],
-        "kpis": [ 
-            "⚡ 95% faster application tailoring",
-            "🕐 <5s insights generation",
-            "🎯 98% info extraction accuracy"
+        "kpis": [
+            "⚡ 40% faster info access",
+            "🎯 98% accuracy",
+            "👥 30% increase in engagement"
         ],
         "github": "https://github.com/muditgarg48/self-rag-system",
         "deployment": "https://muditgarg48.github.io/#chatbot-section",
@@ -57,10 +57,9 @@
             "JavaScript ES6",
             "OpenWeather API"
         ],
-        "kpis": [ 
-            "⚡ 95% faster application tailoring",
-            "🕐 <5s insights generation",
-            "🎯 98% info extraction accuracy"
+        "kpis": [
+            "⚡ <1.2s response",
+            "💭 Meaningful insights"
         ],
         "github": "https://github.com/muditgarg48/weather_bucket",
         "deployment": "https://weather-bucket.onrender.com/",
@@ -79,10 +78,10 @@
             "Numpy",
             "OpenCV"
         ],
-        "kpis": [ 
-            "⚡ 95% faster application tailoring",
-            "🕐 <5s insights generation",
-            "🎯 98% info extraction accuracy"
+        "kpis": [
+            "🎯 93% acc on limited data",
+            "⚡ ~Real-time gesture decoding",
+            "🌐 Scalable to any Python-connectable device"
         ],
         "github": "https://github.com/muditgarg48/gesture_based_device_control",
         "deployment": "https://muditgarg48.github.io/portfolio_data/documents/FYP Dissertation.pdf",
@@ -108,10 +107,10 @@
             "JavaScript ES6",
             "GitHub Pages"
         ],
-        "kpis": [ 
-            "⚡ 95% faster application tailoring",
-            "🕐 <5s insights generation",
-            "🎯 98% info extraction accuracy"
+        "kpis": [
+            "📈 18% Visitor growth",
+            "🧩 Modular Architecture",
+            "🔁 100% Dynamic Content"
         ],
         "github": "https://github.com/muditgarg48/muditgarg48.github.io",
         "deployment": "https://muditgarg48.github.io",
@@ -130,10 +129,9 @@
         "tech_stack": [
             "Python 3"
         ],
-        "kpis": [ 
-            "⚡ 95% faster application tailoring",
-            "🕐 <5s insights generation",
-            "🎯 98% info extraction accuracy"
+        "kpis": [
+            "🌐 Serverless Scalability",
+            "🛡️ Protocol Robustness"
         ],
         "github": "https://github.com/muditgarg48/p2p-vehicular-network",
         "deployment": "",
@@ -156,11 +154,7 @@
             "HTML5",
             "Bootstrap"
         ],
-        "kpis": [ 
-            "⚡ 95% faster application tailoring",
-            "🕐 <5s insights generation",
-            "🎯 98% info extraction accuracy"
-        ],
+        "kpis": [],
         "github": "https://github.com/muditgarg48/tinkercad_projects",
         "deployment": "https://muditgarg48.github.io/tinkercad_projects/",
         "other_btns": []
@@ -176,10 +170,13 @@
             "Firebase",
             "Google Cloud"
         ],
-        "kpis": [ 
-            "⚡ 95% faster application tailoring",
-            "🕐 <5s insights generation",
-            "🎯 98% info extraction accuracy"
+        "kpis": [
+            "🌐 Google Authentication",
+            "🌙 Light/Dark Mode",
+            "👥 IAM capabilities",
+            "🛠️ 9 features",
+            "🕜 100% uptime",
+            "📱 cross-platform"
         ],
         "github": "https://github.com/muditgarg48/candle_in_dark_web",
         "deployment": "https://muditgarg48.github.io/candle_in_dark_web/",
@@ -197,10 +194,9 @@
             "CSS3",
             "HTML5"
         ],
-        "kpis": [ 
-            "⚡ 95% faster application tailoring",
-            "🕐 <5s insights generation",
-            "🎯 98% info extraction accuracy"
+        "kpis": [
+            "🌐 300+ redirects",
+            "⚡ <0.8s redirect"
         ],
         "github": "https://github.com/muditgarg48/lets_discover_web",
         "deployment": "https://muditgarg48.github.io/lets_discover_web/",
@@ -215,10 +211,9 @@
             "Java SE 8",
             "BlueJ"
         ],
-        "kpis": [ 
-            "⚡ 95% faster application tailoring",
-            "🕐 <5s insights generation",
-            "🎯 98% info extraction accuracy"
+        "kpis": [
+            "🎯 100% Java SE 8",
+            "📦 no dependencies"
         ],
         "github": "https://github.com/muditgarg48/high_school_java",
         "deployment": "",
