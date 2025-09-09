@@ -28,6 +28,10 @@
         "deployment": "",
         "other_btns": [
             {
+                "text": "README",
+                "link": "https://github.com/muditgarg48/project-album/blob/main/README.md"
+            },
+            {
                 "text": "Download MVP",
                 "link": ""
             }
