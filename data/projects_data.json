@@ -1,4 +1,38 @@
-[
+[   
+    {
+        "name": "A.L.B.U.M.: Automated Local Bundling of User Memories",
+        "desc": "An offline desktop application that uses AI models to organize offline media into meaningful albums based on various parameters",
+        "speciality": "COMING SOON",
+        "image": "https://images.unsplash.com/photo-1614332287897-cdc485fa562d?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "tech_stack": [
+            "Python 3",
+            "PIL",
+            "OpenCV",
+            "MTCNN",
+            "Tensorflow",
+            "Flask",
+            "React 19",
+            "Redux",
+            "Vite",
+            "Typescript",
+            "Electron"
+        ],
+        "planned_tasks": [
+            "EXIF Metadata Extraction, Normalisation and Clustering",
+            "Face Detection, Alignment and Clustering",
+            "Flask Backend Server",
+            "React + Vite Frontend",
+            "Electron Desktop App Wrapper"
+        ],
+        "github": "https://github.com/muditgarg48/project-album",
+        "deployment": "",
+        "other_btns": [
+            {
+                "text": "Download MVP",
+                "link": ""
+            }
+        ]
+    },  
     {
         "name": "RaDAR: Resume and JD Analyzer",
         "desc": "A useful tool to help candidates with application process like resume improvement, job description analysis and key word extraction, etc.",
@@ -88,11 +122,11 @@
         "other_btns": [
             {
                 "text": "README",
-                "github": "https://github.com/muditgarg48/gesture_based_device_control/blob/main/README.md"
+                "link": "https://github.com/muditgarg48/gesture_based_device_control/blob/main/README.md"
             },
             {
                 "text": "ABSTRACT",
-                "github": "https://muditgarg48.github.io/portfolio_data/documents/FYP Abstract.pdf"
+                "link": "https://muditgarg48.github.io/portfolio_data/documents/FYP Abstract.pdf"
             }
         ]
     },
@@ -117,7 +151,7 @@
         "other_btns": [
             {
                 "text": "v1",
-                "github": "https://muditgarg48-v1.onrender.com/"
+                "link": "https://muditgarg48-v1.onrender.com/"
             }
         ]
     },
@@ -138,7 +172,7 @@
         "other_btns": [
             {
                 "text": "README",
-                "github": "https://github.com/muditgarg48/p2p-vehicular-network/blob/main/README.md"
+                "link": "https://github.com/muditgarg48/p2p-vehicular-network/blob/main/README.md"
             }
         ]
     },
