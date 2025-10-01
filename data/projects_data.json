@@ -72,9 +72,9 @@
         "tech_stack": [
             "Python 3",
             "Flask",
-            "ChromaDB",
+            "FAISS",
             "LangChain",
-            "Gemini 1.5 Flash API"
+            "Gemini 2.5 Flash API"
         ],
         "kpis": [
             "⚡ 40% faster info access",
