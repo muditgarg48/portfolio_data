@@ -1,4 +1,46 @@
-[   
+[
+    {
+        "name": "Project Hive",
+        "desc": "A one-stop solution for real-time chatrooms, combining permanent topic-based conversations (like subreddits) and temporary event chats (like YouTube Live Chat) into a unified platform with discovery, saved messages, and translation features.",
+        "speciality": "COMING SOON",
+        "image": "https://images.unsplash.com/photo-1614332287897-cdc485fa562d?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "tech_stack": [
+            "React 19",
+            "Vite",
+            "TypeScript",
+            "Express",
+            "PostgreSQL",
+            "Socket.io"
+        ],
+        "planned_tasks": [
+            "Scalable Real-time Messaging Architecture",
+            "Express Backend with PostgreSQL",
+            "Socket.io Live Chat System",
+            "Discover Tab with Search Functionality",
+            "Notebook for Saved Messages",
+            "Google OAuth Integration",
+            "Message Translation API",
+            "Dark Mode UI",
+            "AI Message Summarization",
+            "Rate Limiting and Spam Protection"
+        ],
+        "github": "https://github.com/RajatVerma099/Hive",
+        "deployment": "",
+        "other_btns": [
+            {
+                "text": "README",
+                "link": "https://github.com/RajatVerma099/Hive/blob/main/README.md"
+            },
+            {
+                "text": "ENGINEER 2",
+                "link": "https://www.linkedin.com/in/rajat-verma-321336224/"
+            },
+            {
+                "text": "PRODUCT MANAGER",
+                "link": "https://www.linkedin.com/in/samyak-jain-lodha062001/"
+            }
+        ]
+    },
     {
         "name": "A.L.B.U.M.: Automated Local Bundling of User Memories",
         "desc": "An offline desktop application that uses AI models to organize offline media into meaningful albums based on various parameters",
