@@ -5,45 +5,36 @@
         "speciality": "COMING SOON",
         "image": "https://images.unsplash.com/photo-1614332287897-cdc485fa562d?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "tech_stack": [
-            "React 19",
-            "Vite",
+            "React",
             "TypeScript",
             "Tailwind v3",
             "Express",
-            "PostgreSQL",
-            "Socket.io"
+            "PostgreSQL"
         ],
         "planned_tasks": [
-            "Scalable Real-time Messaging Architecture",
-            "Express Backend with PostgreSQL",
-            "Socket.io Live Chat System",
-            "Discover Tab with Search Functionality",
-            "Notebook for Saved Messages",
-            "Google OAuth Integration",
-            "Message Translation API",
-            "Dark Mode UI",
-            "AI Message Summarization",
-            "Rate Limiting and Spam Protection"
+            "Messages saving and Notebook maintainance system",
+            "Moderation system and user roles",
+            "Message rep system",
+            "Message Actions like pin, star, message support, message revolt, etc",
+            "Special tag system",
+            "Translation API",
+            "Multimedia support"
         ],
         "github": {
-            "repo_owner": "RajatVerma099",
+            "repo_owner": "muditgarg48",
             "repo_name": "Hive",
-            "repo_link": "https://github.com/RajatVerma099/Hive",
+            "repo_link": "https://github.com/muditgarg48/Hive",
             "repo_branch": "master"
         },
-        "deployment": "",
+        "deployment": "https://onlinehivechat.vercel.app",
         "other_btns": [
             {
                 "text": "README",
-                "link": "https://github.com/RajatVerma099/Hive/blob/main/README.md"
+                "link": "https://github.com/muditgarg48/Hive/blob/main/README.md"
             },
             {
-                "text": "ENGINEER 2",
-                "link": "https://www.linkedin.com/in/rajat-verma-321336224/"
-            },
-            {
-                "text": "PRODUCT MANAGER",
-                "link": "https://www.linkedin.com/in/samyak-jain-lodha062001/"
+                "text": "The Wall",
+                "link": "https://onlinehivechat.vercel.app/wall"
             }
         ]
     },
