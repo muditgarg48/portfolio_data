@@ -1,7 +1,7 @@
 [
     {
         "name": "Project Hive",
-        "desc": "A one-stop solution for real-time chatrooms, combining permanent topic-based conversations (like subreddits) and temporary event chats (like YouTube Live Chat) into a unified platform with discovery, saved messages, and translation features.",
+        "desc": "Real-time chatrooms, combining permanent topic-based conversations (like subreddits) and temporary event chats (like YouTube Live Chat) into a unified platform with discovery, saved messages, and translation features.",
         "speciality": "COMING SOON",
         "image": "https://images.unsplash.com/photo-1614332287897-cdc485fa562d?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "tech_stack": [
@@ -84,7 +84,7 @@
     {
         "name": "RaDAR: Resume and JD Analyzer",
         "desc": "A useful tool to help candidates with application process like resume improvement, job description analysis and key word extraction, etc.",
-        "speciality": "One Stop Job Hunting Tool",
+        "speciality": "Job Hunting Assistant",
         "image": "https://muditgarg48.github.io/portfolio_data/images/project_imgs/radar.png",
         "tech_stack": [
             "React 19",
@@ -106,8 +106,8 @@
         ],
         "github": {
             "repo_owner": "muditgarg48",
-            "repo_name": "radar_frontend",
-            "repo_link": "https://github.com/muditgarg48/radar_frontend",
+            "repo_name": "radar_backend",
+            "repo_link": "https://github.com/muditgarg48/radar_backend",
             "repo_branch": "master"
         },
         "deployment": "https://muditgarg48.github.io/radar_frontend/",
@@ -201,7 +201,7 @@
     {
         "name": "Portfolio React Application",
         "desc": "An interactive personal portfolio website showcasing my skills, projects, and professional journey in a sleek and modern design.",
-        "speciality": "Portfolio Website",
+        "speciality": "Personal Portfolio",
         "image": "https://muditgarg48.github.io/portfolio_data/images/project_imgs/portfolio_react_app.png",
         "tech_stack": [
             "React 19",
@@ -279,7 +279,7 @@
     {
         "name": "Candle in Dark",
         "desc": "A cross platform Flutter app designed to help international students at Trinity College Dublin seamlessly adapt to their new country and environment.",
-        "speciality": "Featured App",
+        "speciality": "Cross-Platform App",
         "image": "https://muditgarg48.github.io/portfolio_data/images/project_imgs/candle_in_dark.png",
         "tech_stack": [
             "Flutter 3",
@@ -297,8 +297,8 @@
         ],
         "github": {
             "repo_owner": "muditgarg48",
-            "repo_name": "candle_in_dark_web",
-            "repo_link": "https://github.com/muditgarg48/candle_in_dark_web",
+            "repo_name": "candle_in_dark",
+            "repo_link": "https://github.com/muditgarg48/candle_in_dark",
             "repo_branch": "master"
         },
         "deployment": "https://muditgarg48.github.io/candle_in_dark_web/",
