@@ -84,7 +84,7 @@
     {
         "name": "RaDAR: Resume and JD Analyzer",
         "desc": "A useful tool to help candidates with application process like resume improvement, job description analysis and key word extraction, etc.",
-        "speciality": "Job Hunting Assistant",
+        "speciality": "Agentic AI System",
         "image": "https://muditgarg48.github.io/portfolio_data/images/project_imgs/radar.png",
         "tech_stack": [
             "React 19",
