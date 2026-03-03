@@ -1,31 +1,59 @@
-[
-    {
-        "name": "General Motors",
-        "domain": "gm.com",
-        "website": "https://gm.com",
-        "role": "Software Engineer Intern",
-        "desc": [
-            "Collaborated on a Java and Spring Boot based project with a team of 6 talented engineers, optimizing the performance of a microservice by about 96.4% (measured in terms of compilation and execution time of the project) and reducing it's tech debt by 23% (measured in terms of resource utilisation).",
-            "Improved the UI of a Teams bot service, improving it's effectiveness for the stakeholders by 25% (survey-based).",
-            "Spearheaded the development of a new front-end architecture for our project's unified website, utilizing the best industrial UI/UX practises, resulting in a 15% increase in user engagement as compared to the previous iteration, without any increase in cost, in terms of development times and resources.",
-            "Worked with senior software engineers across several timezones, streamlining the usability and user-friendliness of crucial internal Power BI reports, optimising screen real estate usage, thereby decreasing the number of reports required for the same data by 33%."
-        ],
-        "start": "Jan '23",
-        "end": "Aug '23",
-        "tech": [
-            "Java SE 22",
-            "Springboot 2.7",
-            "Maven",
-            "GraphQL",
-            "PostgreSQL",
-            "Docker",
-            "Kubernetes",
-            "Azure DevOps",
-            "Agile",
-            "Scrum",
-            "SDLC",
-            "Microsoft Power BI",
-            "MySQL"
-        ]
-    }
-]
+{
+    "_meta": {
+        "description": "This file contains the professional work experience history. Each entry represents a job position with company details, role, responsibilities, duration, and technologies used.",
+        "data_type": "work_experience",
+        "fields": {
+            "name": "Company name",
+            "domain": "Company domain/website identifier",
+            "website": "Company official website URL",
+            "role": "Job title/position held",
+            "desc": "Array of job responsibilities and achievements",
+            "start": "Start date of the position",
+            "end": "End date of the position",
+            "tech": "Array of technologies/tools used in this role",
+            "testimonials": "Array of testimonials from managers/colleagues/clients containing testimonial text, and links"
+        }
+    },
+    "experiences": [
+        {
+            "name": "General Motors",
+            "domain": "gm.com",
+            "website": "https://gm.com",
+            "role": "Software Engineer Intern",
+            "desc": [
+                "Collaborated on a Java and Spring Boot based project with a team of 6 talented engineers, optimizing the performance of a microservice by about 96.4% (measured in terms of compilation and execution time of the project) and reducing it's tech debt by 23% (measured in terms of resource utilisation).",
+                "Improved the UI of a Teams bot service, improving it's effectiveness for the stakeholders by 25% (survey-based).",
+                "Spearheaded the development of a new front-end architecture for our project's unified website, utilizing the best industrial UI/UX practises, resulting in a 15% increase in user engagement as compared to the previous iteration, without any increase in cost, in terms of development times and resources.",
+                "Worked with senior software engineers across several timezones, streamlining the usability and user-friendliness of crucial internal Power BI reports, optimising screen real estate usage, thereby decreasing the number of reports required for the same data by 33%."
+            ],
+            "start": "Jan '23",
+            "end": "Aug '23",
+            "tech": [
+                "Java SE 22",
+                "Springboot 2.7",
+                "Maven",
+                "GraphQL",
+                "PostgreSQL",
+                "Docker",
+                "Kubernetes",
+                "Azure DevOps",
+                "Agile",
+                "Scrum",
+                "SDLC",
+                "Microsoft Power BI",
+                "MySQL"
+            ],
+            "testimonials": [
+                {
+                    "testimonial": "Mudit worked with me during his internship and consistently demonstrated strong technical skills and attention to detail. He picked up new technologies quickly and contributed effectively to the team's deliverables. His structured approach to problem-solving and eagerness to improve stood out. I’m confident he will do well in his professional career.",
+                    "links": [
+                        {
+                            "title": "Testimonial",
+                            "link": "https://www.linkedin.com/in/muditgarg48/details/recommendations/"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

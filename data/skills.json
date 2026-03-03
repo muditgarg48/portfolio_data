@@ -1,4 +1,20 @@
 {
+    "_meta": {
+        "description": "This file contains the technical skills organized by category. Skills are categorized into programming languages, frameworks, databases, tools/libraries, and IDEs.",
+        "data_type": "technical_skills",
+        "fields": {
+            "name": "Skill name (technology/framework/language name)",
+            "icon": "URL to the icon/logo of the skill",
+            "ribbon": "Special badge/indicator (⚒️ for frequently used, ⭐ for favorite)"
+        },
+        "categories": {
+            "Languages": "Programming languages (Java, Python, C++, Dart, SQL, HTML, CSS, JavaScript, TypeScript)",
+            "Frameworks": "Software frameworks and libraries (Spring Boot, Flutter, React, Flask)",
+            "Databases": "Database management systems (MySQL, PostgreSQL, Firebase, Google Cloud)",
+            "Tools and Libraries": "Development tools, libraries, and platforms (Git, Docker, Kubernetes, TensorFlow, OpenCV, etc.)",
+            "Integrated Development Environments (IDE)": "Code editors and IDEs (VS Code, IntelliJ, Android Studio, Jupyter)"
+        }
+    },
     "Languages": [
         {
             "name": "Java",

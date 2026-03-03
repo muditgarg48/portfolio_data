@@ -1,4 +1,18 @@
 {
+    "_meta": {
+        "description": "This file contains the main introduction and personal information about the portfolio owner. It includes the professional intro paragraph, basic info (work status, location, authorizations), contact information (LinkedIn, GitHub, email, portfolio), current activities, recently concluded work, and a personal quote.",
+        "data_type": "personal_intro",
+        "fields": {
+            "intro_para": "Main professional introduction paragraph - summarizes career goals, skills, and work ethic",
+            "basic_info": "Array of key professional status items (Work Status, Based In, Work Authorizations, Open to Relocation)",
+            "contact_info": "Contact links array with title and URL for LinkedIn, GitHub, Email, Portfolio Website",
+            "currently": "Current projects or work being actively pursued",
+            "recently_concluded": "Recent activities or projects that have concluded",
+            "outer_para": "Closing paragraph with call to action for collaboration",
+            "portrait_link": "URL to profile portrait image",
+            "my_quote": "Personal quote that reflects the owner's mindset"
+        }
+    },
     "intro_para": "As an upcoming Software Engineer, I am passionate about building efficient and scalable solutions that measurably improve business outcomes, while also adopting a growth mindset and willingness to learn anything that makes me a better engineer. I have a proven track record of producing such improvements, both as an individual contributor and as a team collaborator. Due to my passion for my field, I have a strong work ethic which makes me a valuable asset to every team I join. I consistently strive toward perfection and always keep my codebase clean, readable, and modular. What I lack in experience, I make up in my industry-standard project work with a properly structured, modular codebase and well-documented repository",
     "basic_info": [
         {
