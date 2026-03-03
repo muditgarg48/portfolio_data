@@ -13,72 +13,74 @@
             "my_quote": "Personal quote that reflects the owner's mindset"
         }
     },
-    "intro_para": "As an upcoming Software Engineer, I am passionate about building efficient and scalable solutions that measurably improve business outcomes, while also adopting a growth mindset and willingness to learn anything that makes me a better engineer. I have a proven track record of producing such improvements, both as an individual contributor and as a team collaborator. Due to my passion for my field, I have a strong work ethic which makes me a valuable asset to every team I join. I consistently strive toward perfection and always keep my codebase clean, readable, and modular. What I lack in experience, I make up in my industry-standard project work with a properly structured, modular codebase and well-documented repository",
-    "basic_info": [
-        {
-            "title": "Work Status",
-            "content": "#OpenToWork"
-        },
-        {
-            "title": "Based In",
-            "content": "Delhi, India"
-        },
-        {
-            "title": "Other Work Authorizations",
-            "content": "Ireland",
-            "footer": "valid till 2026 end"
-        },
-        {
-            "title": "Open to Relocation",
-            "content": "Yes"
-        }
-    ],
-    "contact_info": [
-        {
-            "title": "LinkedIn",
-            "link": "https://www.linkedin.com/in/muditgarg48/"
-        },
-        {
-            "title": "GitHub",
-            "link": "https://github.com/muditgarg48"
-        },
-        {
-            "title": "Email",
-            "link": "mailto:gargmu@tcd.ie"
-        },
-        {
-            "title": "Portfolio Website",
-            "link": "https://muditgarg48.github.io/"
-        }
-    ],
-    "currently": [
-        {
-            "text": "Actively engineering Hive [1], a real-time topic based chatroom platform, building up on the shortcomings of other popular global conversation platforms. As of Feb'26, successfully handling 30+ users and 2000+ messages with $0 project cost [2]",
-            "links": [
-                "https://onlinehivechat.vercel.app",
-                "https://onlinehivechat.vercel.app/wall"
-            ]
-        },
-        {
-            "text": "Providing end-to-end engineering services on a project basis in every major tech areas like cross platform software development, system architecture designing, AI training & fine tuning, database management, hosting and maintenance services and software consultantions to name a few. Email me for more info",
-            "links": [
-                "mailto:gargmu@tcd.ie"
-            ]
-        }
-    ],
-    "recently_concluded": [
-        {
-            "text": "Concluded my journey of sharpening my skills in the fields of Data Structures, Algorithms, System Architecture Design and Low Level Programming via online platforms like Leetcode and HelloInterview",
-            "links": []
-        }, 
-        {
-            "text": "Concluded the implementation of RaDAR [1], my own AI agent job hunting assistance tool",
-            "links": [
-                "https://muditgarg48.github.io/radar_frontend"
-            ]
-        }
-    ],
-    "outer_para": "I am always eager to collaborate on solving problems and contributing to the growth of a cause. Feel free to contact me via LinkedIn or email.",
-    "portrait_link": "https://muditgarg48.github.io/portfolio_data/images/myself.jpg",
-    "my_quote": "Lets hope for the best and plan for the worst"
+    "about": {
+        "intro_para": "As an upcoming Software Engineer, I am passionate about building efficient and scalable solutions that measurably improve business outcomes, while also adopting a growth mindset and willingness to learn anything that makes me a better engineer. I have a proven track record of producing such improvements, both as an individual contributor and as a team collaborator. Due to my passion for my field, I have a strong work ethic which makes me a valuable asset to every team I join. I consistently strive toward perfection and always keep my codebase clean, readable, and modular. What I lack in experience, I make up in my industry-standard project work with a properly structured, modular codebase and well-documented repository",
+        "basic_info": [
+            {
+                "title": "Work Status",
+                "content": "#OpenToWork"
+            },
+            {
+                "title": "Based In",
+                "content": "Delhi, India"
+            },
+            {
+                "title": "Other Work Authorizations",
+                "content": "Ireland",
+                "footer": "valid till 2026 end"
+            },
+            {
+                "title": "Open to Relocation",
+                "content": "Yes"
+            }
+        ],
+        "contact_info": [
+            {
+                "title": "LinkedIn",
+                "link": "https://www.linkedin.com/in/muditgarg48/"
+            },
+            {
+                "title": "GitHub",
+                "link": "https://github.com/muditgarg48"
+            },
+            {
+                "title": "Email",
+                "link": "mailto:gargmu@tcd.ie"
+            },
+            {
+                "title": "Portfolio Website",
+                "link": "https://muditgarg48.github.io/"
+            }
+        ],
+        "currently": [
+            {
+                "text": "Actively engineering Hive [1], a real-time topic based chatroom platform, building up on the shortcomings of other popular global conversation platforms. As of Feb'26, successfully handling 30+ users and 2000+ messages with $0 project cost [2]",
+                "links": [
+                    "https://onlinehivechat.vercel.app",
+                    "https://onlinehivechat.vercel.app/wall"
+                ]
+            },
+            {
+                "text": "Providing end-to-end engineering services on a project basis in every major tech areas like cross platform software development, system architecture designing, AI training & fine tuning, database management, hosting and maintenance services and software consultantions to name a few. Email me for more info",
+                "links": [
+                    "mailto:gargmu@tcd.ie"
+                ]
+            }
+        ],
+        "recently_concluded": [
+            {
+                "text": "Concluded my journey of sharpening my skills in the fields of Data Structures, Algorithms, System Architecture Design and Low Level Programming via online platforms like Leetcode and HelloInterview",
+                "links": []
+            }, 
+            {
+                "text": "Concluded the implementation of RaDAR [1], my own AI agent job hunting assistance tool",
+                "links": [
+                    "https://muditgarg48.github.io/radar_frontend"
+                ]
+            }
+        ],
+        "outer_para": "I am always eager to collaborate on solving problems and contributing to the growth of a cause. Feel free to contact me via LinkedIn or email.",
+        "portrait_link": "https://muditgarg48.github.io/portfolio_data/images/myself.jpg",
+        "my_quote": "Lets hope for the best and plan for the worst"
+    }
 }
