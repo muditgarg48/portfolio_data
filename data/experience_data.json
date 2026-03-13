@@ -70,21 +70,7 @@
             ],
             "start": "Jan '25",
             "end": "Jan '26",
-            "tech": [
-                "Java SE 22",
-                "Springboot 2.7",
-                "Maven",
-                "GraphQL",
-                "PostgreSQL",
-                "Docker",
-                "Kubernetes",
-                "Azure DevOps",
-                "Agile",
-                "Scrum",
-                "SDLC",
-                "Microsoft Power BI",
-                "MySQL"
-            ],
+            "tech": [],
             "testimonials": []
         }, 
         {
@@ -93,7 +79,7 @@
             "mode": "Remote",
             "location": "India",
             "website": "https://muditgarg48.github.io",
-            "role": "Software/System Architect",
+            "role": "Software Engineer",
             "desc": [
                 "Consulted clients on optimal tech stacks for their businesses, to eliminate unnecessary tech debt and drastically cut costs, resulting in up to 75% reductions in monthly expenses.",
                 "Optimized client infrastructures, services, and operations holistically, to boost efficiency, scalability, and performance, achieving 60-80% improvements across key metrics in multiple engagements.",
@@ -101,7 +87,12 @@
             ],
             "start": "Jan '26",
             "end": "Present",
-            "tech": [],
+            "tech": [
+                "Web Development",
+                "Android Development",
+                "System Architecture Design",
+                "Software Consultation"
+            ],
             "testimonials": []
         }
     ]
