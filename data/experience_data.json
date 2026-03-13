@@ -18,16 +18,58 @@
         {
             "name": "General Motors",
             "domain": "gm.com",
+            "mode": "Hybrid",
+            "location": "Dublin, Ireland",
             "website": "https://gm.com",
             "role": "Software Engineer Intern",
             "desc": [
-                "Collaborated on a Java and Spring Boot based project with a team of 6 talented engineers, optimizing the performance of a microservice by about 96.4% (measured in terms of compilation and execution time of the project) and reducing it's tech debt by 23% (measured in terms of resource utilisation).",
-                "Improved the UI of a Teams bot service, improving it's effectiveness for the stakeholders by 25% (survey-based).",
-                "Spearheaded the development of a new front-end architecture for our project's unified website, utilizing the best industrial UI/UX practises, resulting in a 15% increase in user engagement as compared to the previous iteration, without any increase in cost, in terms of development times and resources.",
-                "Worked with senior software engineers across several timezones, streamlining the usability and user-friendliness of crucial internal Power BI reports, optimising screen real estate usage, thereby decreasing the number of reports required for the same data by 33%."
+                "Collaborated on a Spring Boot 2.7.x, Maven and Java SE 22 based microservice with a team of 6, optimizing performance by 96.4% and reducing technical debt by 23%, streamlining the CI/CD pipeline.",
+                "Spearheaded the development of a new front-end architecture based in Angular, utilizing highly efficient, industry-standard UI/UX practices, increasing user engagement by 15% as compared to the previous iteration.",
+                "Streamlined crucial Power BI reports in collaboration with senior engineers across time zones, increasing productivity by 33% through optimized screen real-estate and report consolidation"
             ],
             "start": "Jan '23",
             "end": "Aug '23",
+            "tech": [
+                "Java SE 22",
+                "Springboot 2.7",
+                "Maven",
+                "GraphQL",
+                "MySQL",
+                "PostgreSQL",
+                "Docker",
+                "Kubernetes",
+                "Azure DevOps",
+                "Agile",
+                "Scrum",
+                "SDLC",
+                "Microsoft Power BI"
+            ],
+            "testimonials": [
+                {
+                    "testimonial": "Mudit worked with me during his internship and consistently demonstrated strong technical skills and attention to detail. He picked up new technologies quickly and contributed effectively to the team's deliverables. His structured approach to problem-solving and eagerness to improve stood out. I’m confident he will do well in his professional career.",
+                    "links": [
+                        {
+                            "title": "Testimonial",
+                            "link": "https://www.linkedin.com/in/muditgarg48/details/recommendations/"
+                        }
+                    ],
+                    "by": "Vaibhav Aher"
+                }
+            ]
+        },
+        {
+            "name": "Gravitad Systems S.L.",
+            "domain": "gravitad.com",
+            "mode": "Remote",
+            "location": "Ireland",
+            "website": "https://gravitad.com",
+            "role": "Software Consultant",
+            "desc": [
+                "Providing software development and technical consulting services across multiple client-driven initiatives like Gravitad Systems.",
+                "Delivering analysis, system documentation, architectural recommendations, and front-end strategy reports to guide downstream engineering and technical decision-making."
+            ],
+            "start": "Jan '25",
+            "end": "Jan '26",
             "tech": [
                 "Java SE 22",
                 "Springboot 2.7",
@@ -43,18 +85,24 @@
                 "Microsoft Power BI",
                 "MySQL"
             ],
-            "testimonials": [
-                {
-                    "testimonial": "Mudit worked with me during his internship and consistently demonstrated strong technical skills and attention to detail. He picked up new technologies quickly and contributed effectively to the team's deliverables. His structured approach to problem-solving and eagerness to improve stood out. I’m confident he will do well in his professional career.",
-                    "links": [
-                        {
-                            "title": "Testimonial",
-                            "link": "https://www.linkedin.com/in/muditgarg48/details/recommendations/"
-                        }
-                    ],
-                    "by": "Vaibhav Aher"
-                }
-            ]
+            "testimonials": []
+        }, 
+        {
+            "name": "Self-Employed",
+            "domain": "muditgarg48.github.io",
+            "mode": "Remote",
+            "location": "India",
+            "website": "https://muditgarg48.github.io",
+            "role": "Software/System Architect",
+            "desc": [
+                "Consulted clients on optimal tech stacks for their businesses, to eliminate unnecessary tech debt and drastically cut costs, resulting in up to 75% reductions in monthly expenses.",
+                "Optimized client infrastructures, services, and operations holistically, to boost efficiency, scalability, and performance, achieving 60-80% improvements across key metrics in multiple engagements.",
+                "Architected, designed, and developed cost-effective, highly maintainable websites, to build instant customer trust and credibility while enabling seamless communication, increasing perceived value by over 50% and reducing maintenance overhead by 70%."
+            ],
+            "start": "Jan '26",
+            "end": "Present",
+            "tech": [],
+            "testimonials": []
         }
     ]
 }
