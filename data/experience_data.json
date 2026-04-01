@@ -23,21 +23,21 @@
             "website": "https://gm.com",
             "role": "Software Engineer Intern",
             "desc": [
-                "Collaborated on a Spring Boot 2.7.x, Maven and Java SE 22 based microservice with a team of 6, optimizing performance by 96.4% and reducing technical debt by 23%, streamlining the CI/CD pipeline.",
+                "Collaborated on a Spring Boot, Maven and Java SE 17 based microservice with a team of 6, optimizing performance by 96.4% and reducing technical debt by 23%, streamlining the CI/CD pipeline.",
                 "Spearheaded the development of a new front-end architecture based in Angular, utilizing highly efficient, industry-standard UI/UX practices, increasing user engagement by 15% as compared to the previous iteration.",
-                "Streamlined crucial Power BI reports in collaboration with senior engineers across time zones, increasing productivity by 33% through optimized screen real-estate and report consolidation"
+                "Streamlined crucial Power BI reports in collaboration with senior engineers across time zones, increasing productivity by 33% through optimized screen real-estate and report consolidation."
             ],
             "start": "Jan '23",
             "end": "Aug '23",
             "tech": [
-                "Java SE 22",
+                "Java SE 17",
                 "Springboot 2.7",
                 "Maven",
                 "GraphQL",
                 "MySQL",
                 "PostgreSQL",
                 "Docker",
-                "Kubernetes",
+                "K8s",
                 "Azure DevOps",
                 "Agile",
                 "Scrum",
@@ -73,16 +73,21 @@
             ],
             "start": "Jan '25",
             "end": "Jan '26",
-            "tech": [],
+            "tech": [
+                "Power BI",
+                "Microsoft Excel",
+                "Claude Code",
+                "Prompt Engineering"
+            ],
             "testimonials": []
         }, 
         {
-            "name": "Software Engineer, Consultant and Freelancer",
+            "name": "Self Employed",
             "domain": "muditgarg48.github.io",
             "mode": "Remote",
             "location": "India",
             "website": "https://muditgarg48.github.io",
-            "role": "Software Engineer",
+            "role": "Software Engineer, Consultant and Freelancer",
             "desc": [
                 "Consulted clients on optimal tech stacks for their businesses, to eliminate unnecessary tech debt and drastically cut costs, resulting in up to 75% reductions in monthly expenses.",
                 "Optimized client infrastructures, services, and operations holistically, to boost efficiency, scalability, and performance, achieving 60-80% improvements across key metrics in multiple engagements.",
