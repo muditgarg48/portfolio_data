@@ -1,0 +1,18 @@
+{
+    "_meta": {
+        "description": "This file contains the data for the welcome section of the portfolio website, which is the first section a user sees. it includes a brief catchphrase/specialization, a summary of professional identity, and the call-to-action (CTA) button text and link.",
+        "data_type": "welcome_section",
+        "fields": {
+            "brief": "A short, impactful statement about the owner's primary professional focus or specialization.",
+            "summary": "A more detailed but concise summary of the owner's professional background and goals, designed to provide context immediately upon landing on the site.",
+            "ctaText": "The text displayed on the primary call-to-action button (e.g., 'RESUME').",
+            "ctaLink": "The URL the CTA button redirects to (e.g., a link to the resume or a contact page)."
+        }
+    },
+    "welcome": {
+        "brief": "I specialise in engineering software solutions.",
+        "summary": "A software engineer with a specialization in developing optimality-focused products tailored to address challenges and make life efficient.",
+        "ctaText": "RESUME",
+        "ctaLink": "https://muditgarg48.github.io/portfolio_data/documents/My Resume.pdf"
+    }
+}
