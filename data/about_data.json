@@ -14,20 +14,20 @@
         }
     },
     "about": {
-        "intro_para": "As an upcoming Software Engineer, I am passionate about building efficient and scalable solutions that measurably improve business outcomes, while also adopting a growth mindset and willingness to learn anything that makes me a better engineer. I have a proven track record of producing such improvements, both as an individual contributor and as a team collaborator. Due to my passion for my field, I have a strong work ethic which makes me a valuable asset to every team I join. I consistently strive toward perfection and always keep my codebase clean, readable, and modular. What I lack in experience, I make up in my industry-standard project work with a properly structured, modular codebase and well-documented repository",
+        "intro_para": "As a Software Engineer, I am highly skilled in architecting systems and designing platforms end-to-end that are optimised to scale. I am proficient in engineering softwares that measurably improve business outcomes. I am very passionate in mind field which helps me easily adopt a growth mindset and willingness to learn anything that makes me better in my field. I have a proven track record of working as an individual contributor and as a team collaborator. My codebases are always readable, modular, well-documented and up-to-date.",
         "basic_info": [
             {
                 "title": "Work Status",
-                "content": "#OpenToWork"
+                "content": "#OpenToHire"
             },
             {
                 "title": "Based In",
-                "content": "Delhi, India"
+                "content": "Ireland - India"
             },
             {
-                "title": "Other Work Authorizations",
-                "content": "Ireland",
-                "footer": "valid till 2026 end"
+                "title": "Work Authorizations",
+                "content": "Ireland; India",
+                "footer": "Stamp 1G (till end 2026); Citizenship"
             },
             {
                 "title": "Open to Relocation",
@@ -54,17 +54,15 @@
         ],
         "currently": [
             {
-                "text": "Actively engineering Hive [1], a real-time topic based chatroom platform, building up on the shortcomings of other popular global conversation platforms. As of Feb'26, successfully handling 30+ users and 2000+ messages with $0 project cost [2]",
+                "text": "Actively engineering Hive [1], a real-time topic based chatroom platform. As of Feb'26, successfully handling 30+ users and 2000+ messages with $0 project cost [2]",
                 "links": [
                     "https://onlinehivechat.vercel.app",
                     "https://onlinehivechat.vercel.app/wall"
                 ]
             },
             {
-                "text": "Providing end-to-end engineering services on a project basis in every major tech areas like cross platform software development, system architecture designing, AI training & fine tuning, database management, hosting and maintenance services and software consultantions to name a few. Email me for more info",
-                "links": [
-                    "mailto:gargmu@tcd.ie"
-                ]
+                "text": "Providing end-to-end engineering services on a project basis in every major tech areas like cross platform software development, system architecture designing, AI projects, database management, hosting and maintenance services and software consultations.",
+                "links": []
             }
         ],
         "recently_concluded": [
