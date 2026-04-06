@@ -1,0 +1,70 @@
+{
+    "_meta": {
+        "description": "This file contains the list of services offered by the portfolio owner in their freelance capacity. Each service has a title, subtitle, description, icon identifier, and a list of example use cases. This data powers the Services section visible in freelance mode only.",
+        "data_type": "freelance_services",
+        "fields": {
+            "id": "Unique identifier for the service, used for internal referencing and anchor links.",
+            "title": "Display name of the service category.",
+            "subtitle": "A short clarifying line below the title.",
+            "description": "A client-facing paragraph explaining the service, its scope, and what assistance is included.",
+            "icon": "Icon identifier string used to render the corresponding icon in the UI.",
+            "examples": "Array of example project types or use cases that fall under this service."
+        }
+    },
+    "services": [
+        {
+            "id": "web-dev",
+            "title": "Web Development",
+            "subtitle": "Websites & Landing Pages",
+            "description": "Custom websites and landing pages built for real business goals — not just looks. Whether you need your first web presence or a complete rebuild, I build fast, clean, and maintainable. Assistance regarding the deployment, hosting and maintenance is also available.",
+            "icon": "web",
+            "examples": [
+                "Business websites",
+                "Landing pages",
+                "Portfolio sites",
+                "Service showcases",
+                "Web apps"
+            ]
+        },
+        {
+            "id": "mobile-apps",
+            "title": "Mobile Apps",
+            "subtitle": "Android and iOS",
+            "description": "Cross-platform mobile apps that work natively on both Android and iOS. No compromise on quality, performance and designs. Assistance regarding Play Store and App Store deployment, hosting and maintenance can also be discussed.",
+            "icon": "mobile",
+            "examples": [
+                "Customer-facing apps",
+                "Internal business tools",
+                "Companion apps for existing services",
+                "MVP prototypes"
+            ]
+        },
+        {
+            "id": "ai-tools",
+            "title": "AI-Powered Tools",
+            "subtitle": "Automations & Smart Assistants",
+            "description": "Practical AI integrations that save you and your team real time — chatbots, workflow automations, smart search or internal tool engineering with easy to deploy, maintain and debug codebases.",
+            "icon": "ai",
+            "examples": [
+                "Custom chatbots trained on your data",
+                "Workflow automation pipelines",
+                "Smart search for internal knowledge bases",
+                "Automated report generation"
+            ]
+        },
+        {
+            "id": "backend-apis",
+            "title": "Backend Systems & APIs",
+            "subtitle": "The engine behind your product",
+            "description": "Backend infrastructure and APIs that power your product reliably, scaling dynamically in terms of both load and resource allocation. Built with production constraints in mind from day one, to avoid panic and hack retrofitting at later stages. Existing service migration, refactoring and optimisations are also open for discussion.",
+            "icon": "backend",
+            "examples": [
+                "REST APIs for web or mobile apps",
+                "Microservices",
+                "Database design and optimisation",
+                "Third-party integrations",
+                "Performance improvements on existing systems"
+            ]
+        }
+    ]
+}

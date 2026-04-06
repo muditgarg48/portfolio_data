@@ -1,0 +1,18 @@
+{
+    "_meta": {
+        "description": "This file contains the data for the welcome section of the freelance mode of the portfolio website. It includes a brief tagline focused on client-facing value, a summary of professional identity from a freelance perspective, and the call-to-action (CTA) button which links to a WhatsApp conversation.",
+        "data_type": "welcome_section",
+        "fields": {
+            "brief": "A short, impactful rotating set of taglines communicating the freelance value proposition to potential clients.",
+            "summary": "A concise summary of the owner's freelance identity — what they build, for whom, and what makes them different from a typical developer.",
+            "ctaText": "The text displayed on the primary call-to-action button.",
+            "ctaLink": "The URL the CTA button redirects to — a WhatsApp link for direct client contact."
+        }
+    },
+    "welcome": {
+        "brief": "I guide and build tech for people's vision.",
+        "summary": "A software engineer, extremely proficient in understanding your needs and advising on the most suitable path to choose, both financially and long-term, rather than just building something.",
+        "ctaText": "Let's Talk",
+        "ctaLink": "https://wa.me/353892050748"
+    }
+}

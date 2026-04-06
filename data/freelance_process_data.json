@@ -1,0 +1,57 @@
+{
+    "_meta": {
+        "description": "This file contains the step-by-step process followed when working with a freelance client. Each step has a title, description, icon identifier, and a duration hint. This data powers the How I Work section visible in freelance mode only.",
+        "data_type": "freelance_process",
+        "fields": {
+            "step": "Step number in the process sequence, used for ordering and display.",
+            "title": "Short display name for this step.",
+            "description": "Client-facing explanation of what happens at this stage and what to expect.",
+            "icon": "Icon identifier string used to render the corresponding icon in the UI.",
+            "duration_hint": "An approximate time indication for this step, shown as a supporting detail."
+        }
+    },
+    "process": [
+        {
+            "step": 1,
+            "title": "Discovery Chat",
+            "description": "We start with a relaxed conversation — no forms, no jargon. You tell me what you're trying to solve, and I ask the questions that matter. No commitment required at this stage.",
+            "icon": "chat",
+            "duration_hint": "30-60 mins"
+        },
+        {
+            "step": 2,
+            "title": "Honest Advice",
+            "description": "Before I quote anything, I tell you what I actually think you need — and what you don't. If a simpler or cheaper solution exists, I'll say so. You make the call with full information and disclosure at your disposal.",
+            "icon": "advice",
+            "duration_hint": "Same session or follow-up"
+        },
+        {
+            "step": 3,
+            "title": "Scope & Agreement",
+            "description": "Once we're aligned on what to build, I put together a clear scope document — what's included, what's not, timeline, and cost. No surprises later.",
+            "icon": "scope",
+            "duration_hint": "1-3 days"
+        },
+        {
+            "step": 4,
+            "title": "Build in Stages",
+            "description": "I build in structured stages rather than disappearing for weeks. You see progress regularly and can give feedback while it's still easy to change things.",
+            "icon": "build",
+            "duration_hint": "Depends on the agreed upon scope"
+        },
+        {
+            "step": 5,
+            "title": "Your Review",
+            "description": "At each stage, you review what's been built. I explain what I've done in plain language — no assumption that you know the technical side. Your feedback shapes the next stage.",
+            "icon": "review",
+            "duration_hint": "Ongoing"
+        },
+        {
+            "step": 6,
+            "title": "Final Delivery",
+            "description": "I demo the finished product and make sure you know how to use and manage what you've paid for. If you want ongoing maintenance or hosting support, that can also be discussed and arranged so that you remain tension-free to focus on what matters.",
+            "icon": "deliver",
+            "duration_hint": "Clean handoff"
+        }
+    ]
+}

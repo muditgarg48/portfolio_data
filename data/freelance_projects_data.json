@@ -1,0 +1,22 @@
+{
+    "_meta": {
+        "description": "This file contains the list of projects completed for real clients in a freelance capacity. Each entry includes the project name, a client-facing description, current status, live deployment URL, and an optional image. This data powers the Work Done section visible in freelance mode only.",
+        "data_type": "freelance_projects",
+        "fields": {
+            "name": "Display name of the client project.",
+            "desc": "A client-facing description of the project — what was built, for whom, and what value it delivered.",
+            "status": "Current status of the project (e.g. Completed, In Progress).",
+            "deployment": "Live URL of the delivered project.",
+            "image": "URL or path to a screenshot or preview image of the project. Can be empty if not yet available."
+        }
+    },
+    "projects": [
+        {
+            "name": "Tanukrit",
+            "desc": "A complete business website for a gift wrapping service — built for a non-technical client with an arts background. Includes service showcase, contact flow, and assistance on hosting and maintenance to keep efforts and costs minimal.",
+            "status": "Completed",
+            "deployment": "https://www.tanukrit.com",
+            "image": ""
+        }
+    ]
+}
