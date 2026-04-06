@@ -7,6 +7,7 @@
             "designation": "Role or designation of the client within the business providing the testimonial.",
             "business": "Name of the client's business or organisation.",
             "quote": "The testimonial text in the client's own words.",
+            "avatar": "URL or path to the client's photo or avatar. If empty, the UI should render an initials-based fallback.",
             "date": "Approximate date the testimonial was given (e.g. March 2025).",
             "project_ref": "Name of the project this testimonial relates to, matching the name field in freelance_projects_data.json."
         }
@@ -17,6 +18,7 @@
             "designation": "Founder",
             "business": "Tanukrit",
             "quote": "Waiting for her testimonial. Waiting for her testimonial. Waiting for her testimonial. Waiting for her testimonial. Waiting for her testimonial. Waiting for her testimonial. Waiting for her testimonial.",
+            "avatar": "",
             "date": "",
             "project_ref": "Tanukrit"
         }
