@@ -1,0 +1,53 @@
+{
+    "_meta": {
+        "description": "This file contains the main introduction about the portfolio owner who is offering his services. It includes the professional intro paragraph, outro paragraph, a personal quote and credentials that showcase and establish their credibility in the field",
+        "data_type": "personal_intro",
+        "fields": {
+            "intro_para": "Main professional introduction paragraph - summarizes career goals, skills, and work ethic",
+            "outer_para": "Closing paragraph with call to action for collaboration",
+            "portrait_link": "URL to profile portrait image",
+            "my_quote": "Personal quote that reflects the owner's mindset",
+            "credentials": "Strong credible pointers about the owner's work that build trust"
+        }
+    },
+    "about": {
+        "intro_para": "As a Software Engineer, I am highly skilled in architecting systems and designing platforms end-to-end that are optimised to scale. I am proficient in engineering softwares that measurably improve business outcomes. I am very passionate in mind field which helps me easily adopt a growth mindset and willingness to learn anything that makes me better in my field. I have a proven track record of working as an individual contributor and as a team collaborator. My codebases are always readable, modular, well-documented and up-to-date.",
+        "outer_para": "I am always eager to collaborate on solving problems and contributing to the growth of a cause. Feel free to contact me via LinkedIn or email.",
+        "portrait_link": "https://muditgarg48.github.io/portfolio_data/images/myself.jpg",
+        "my_quote": "Lets hope for the best and plan for the worst",
+        "credentials": [
+            {
+                "id": "edu",
+                "icon": "graduation",
+                "title": "Academic Excellence",
+                "value": "Masters in Software Systems",
+                "institution": "Trinity College Dublin, Ireland",
+                "tag": "Honors Graduate"
+            },
+            {
+                "id": "exp",
+                "icon": "industry",
+                "title": "Industry Proven",
+                "value": "Ex-Software Engineer",
+                "institution": "General Motors",
+                "tag": "Fortune 500 Experience"
+            },
+            {
+                "id": "perf",
+                "icon": "performance",
+                "title": "Efficiency Specialist",
+                "value": "96%+ System Optimizations & 32% Cost Reduction",
+                "institution": "Proven Results",
+                "tag": "High Performance"
+            },
+            {
+                "id": "ai",
+                "icon": "robot",
+                "title": "AI Native Consultant",
+                "value": "Verified Prompt Engineer",
+                "institution": "AI Solutions Expert",
+                "tag": "Cutting Edge"
+            }
+        ]
+    }
+}
