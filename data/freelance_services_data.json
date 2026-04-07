@@ -13,30 +13,31 @@
     },
     "services": [
         {
-            "id": "web-dev",
-            "title": "Web Development",
-            "subtitle": "Websites & Landing Pages",
-            "description": "Custom websites and landing pages built for real business goals — not just looks. Whether you need your first web presence or a complete rebuild, I build fast, clean, and maintainable. Assistance regarding the deployment, hosting and maintenance is also available.",
-            "icon": "web",
+            "id": "consultancy",
+            "title": "Software Consultancy",
+            "subtitle": "Turn Your Ideas into the Right Plan",
+            "description": "I help you figure out exactly what you need to build. We discuss your goals, I explain what works best technically in simple terms, spot potential issues early, and create a clear roadmap so you avoid costly mistakes and get results faster.",
+            "icon": "lightbulb",
             "examples": [
-                "Business websites",
-                "Landing pages",
-                "Portfolio sites",
-                "Service showcases",
-                "Web apps"
+                "What type of software should you build for your business?",
+                "How to choose the right tools and services without overspending?",
+                "Planning your app or website step-by-step",
+                "Analysing your current setup for improvements",
+                "Guidance on growing your project safely"
             ]
         },
         {
-            "id": "mobile-apps",
-            "title": "Mobile Apps",
-            "subtitle": "Android and iOS",
-            "description": "Cross-platform mobile apps that work natively on both Android and iOS. No compromise on quality, performance and designs. Assistance regarding Play Store and App Store deployment, hosting and maintenance can also be discussed.",
-            "icon": "mobile",
+            "id": "full-systems",
+            "title": "Full Systems & Growth",
+            "subtitle": "Websites + Apps + Everything Connected",
+            "description": "Build your complete online presence: website, mobile app, backend, hosting, and automations - all working together seamlessly. Perfect for businesses ready to scale, with advice on hosting, security, and future growth.",
+            "icon": "layers",
             "examples": [
-                "Customer-facing apps",
-                "Internal business tools",
-                "Companion apps for existing services",
-                "MVP prototypes"
+                "Connected web + mobile experience",
+                "All-in-one business platforms",
+                "Scaling from small to big",
+                "Secure hosting and backups",
+                "Adding new features over time"
             ]
         },
         {
@@ -53,17 +54,44 @@
             ]
         },
         {
+            "id": "web-dev",
+            "title": "Web Development",
+            "subtitle": "Websites & Landing Pages",
+            "description": "Complete websites and web apps built for real business goals - not just looks and smoothness. From simple landing pages to full online tools that handle everything; users, payments, data. I build, launch, and keep them running with minimal hassle.",
+            "icon": "web",
+            "examples": [
+                "Business websites and landing pages",
+                "Portfolio and showcase sites",
+                "Customer portals and web apps",
+                "Online stores and booking systems",
+                "Internal backend apps and services"
+            ]
+        },
+        {
             "id": "backend-apis",
             "title": "Backend Systems & APIs",
             "subtitle": "The engine behind your product",
-            "description": "Backend infrastructure and APIs that power your product reliably, scaling dynamically in terms of both load and resource allocation. Built with production constraints in mind from day one, to avoid panic and hack retrofitting at later stages. Existing service migration, refactoring and optimisations are also open for discussion.",
+            "description": "The reliable behind-the-scenes systems that make your website or app powerful, fast and reliable. Handling user data, payments, automations securely, and grows as your business does. I can also improve, optimise or migrate what you already have.",
             "icon": "backend",
             "examples": [
-                "REST APIs for web or mobile apps",
-                "Microservices",
-                "Database design and optimisation",
-                "Third-party integrations",
-                "Performance improvements on existing systems"
+                "User logins, profiles, and payments",
+                "Automations and notifications",
+                "Connecting your app to other services",
+                "Scaling to a lots of users without slowing down",
+                "Upgrading old systems"
+            ]
+        },
+        {
+            "id": "mobile-apps",
+            "title": "Mobile Apps",
+            "subtitle": "Android and iOS",
+            "description": "Cross-platform mobile apps that work natively on both Android and iOS. No compromise on quality, performance and designs. Assistance regarding Play Store and App Store deployment, hosting and maintenance can also be discussed.",
+            "icon": "mobile",
+            "examples": [
+                "Customer-facing apps",
+                "Internal business tools",
+                "Companion apps for existing services",
+                "MVP prototypes"
             ]
         }
     ]
