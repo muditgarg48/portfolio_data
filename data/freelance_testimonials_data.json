@@ -14,13 +14,22 @@
     },
     "testimonials": [
         {
-            "name": "Tanu",
+            "name": "Tanu Aggarwal",
             "designation": "Founder",
             "business": "Tanukrit",
-            "quote": "Waiting for her testimonial.",
-            "avatar": "",
+            "quote": "Mudit did an amazing job with the task with the first draft being very impressive. Everyone loved the final product with praise for several of his own ideas and it perfectly aligned with Tanukrit's brand identity.",
+            "avatar": "https://tanukrit.com/assets/founder_image-CfpB_6FM.webp",
             "date": "",
             "project_ref": "Tanukrit"
+        },
+        {
+            "name": "Vaibhav Aher",
+            "designation": "Software Engineer",
+            "business": "General Motors",
+            "quote": "Mudit contributed effectively to the team's deliverables. His structured approach to problem-solving and eagerness to improve stood out.",
+            "avatar": "https://media.licdn.com/dms/image/v2/C5603AQFoEIlUR7k5dA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1644946104051?e=1778112000&v=beta&t=9nnPunaNOS9deKFMwYYZjDiv-aQ2XnQeLHB3KnW4-N0",
+            "date": "March, 2026",
+            "project_ref": "General Motors"
         }
     ]
 }
