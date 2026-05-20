@@ -199,7 +199,7 @@
                 "repo_link": "https://github.com/muditgarg48/gesture_based_device_control",
                 "repo_branch": "master"
             },
-            "deployment": "https://muditgarg48.github.io/portfolio_data/documents/FYP Dissertation.pdf",
+            "deployment": "https://muditgarg48.github.io/portfolio_data/documents/FYP/FYP Dissertation.pdf",
             "other_btns": [
                 {
                     "text": "README",
@@ -207,7 +207,7 @@
                 },
                 {
                     "text": "ABSTRACT",
-                    "link": "https://muditgarg48.github.io/portfolio_data/documents/FYP Abstract.pdf"
+                    "link": "https://muditgarg48.github.io/portfolio_data/documents/FYP/FYP Abstract.pdf"
                 }
             ]
         },
