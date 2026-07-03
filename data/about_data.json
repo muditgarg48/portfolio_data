@@ -14,7 +14,7 @@
         }
     },
     "about": {
-        "intro_para": "As a Software Engineer, I am highly skilled in architecting systems and designing platforms end-to-end that are optimised to scale. I am proficient in engineering softwares that measurably improve business outcomes. I am very passionate in mind field which helps me easily adopt a growth mindset and willingness to learn anything that makes me better in my field. I have a proven track record of working as an individual contributor and as a team collaborator. My codebases are always readable, modular, well-documented and up-to-date.",
+        "intro_para": "Software Engineer with a Master's degree in Systems Engineering and 2+ years of professional experience developing enterprise software, I have built several production-ready projects across distributed systems, full-stack applications, backend services, and Microsoft's cloud and data ecosystem. I combine strong engineering fundamentals with a product mindset, using user needs and data-driven decision-making to architect scalable systems and deliver modular, maintainable codebases built to production standards, both individually and in collaborative teams. ",
         "basic_info": [
             {
                 "title": "Work Status",
@@ -22,7 +22,7 @@
             },
             {
                 "title": "Based In",
-                "content": "Ireland - India"
+                "content": "Ireland"
             },
             {
                 "title": "Work Authorizations",
@@ -31,7 +31,7 @@
             },
             {
                 "title": "Open to Relocation",
-                "content": "Yes"
+                "content": "TRUE"
             }
         ],
         "contact_info": [
@@ -54,27 +54,30 @@
         ],
         "currently": [
             {
-                "text": "Actively engineering Hive [1], a real-time topic based chatroom platform. As of Feb'26, successfully handling 30+ users and 2000+ messages with $0 project cost [2]",
+                "text": "Actively handling the end-to-end operations and engineering of Hive [1], a real-time topic based internet town square. As of June'26, successfully handling 40+ users and 2.8k+ messages with $0 operational costs [2]",
                 "links": [
-                    "https://onlinehivechat.vercel.app",
-                    "https://onlinehivechat.vercel.app/wall"
+                    "https://onhive.app",
+                    "https://onhive.app/wall"
                 ]
             },
             {
-                "text": "Providing end-to-end engineering services on a project basis in every major tech areas like cross platform software development, system architecture designing, AI projects, database management, hosting and maintenance services and software consultations.",
-                "links": []
+                "text": "Providing end-to-end engineering services on a project basis in every major tech areas like cross platform software development, system architecture designing, AI projects, database management, hosting and maintenance services and software consultations to small businesses and startups [1].",
+                "links": [
+                    "https://muditgarg48.vercel.app"
+                ]
             }
         ],
         "recently_concluded": [
             {
+                "text": "Concluded the work on one my client's online presence including their website, SEO [1] and initiated a long-term partnership for their website maintenance and hosting services [2]",
+                "links": [
+                    "https://muditgarg48.vercel.app/works/tanukrit",
+                    "https://www.tanukrit.com"
+                ]
+            },
+            {
                 "text": "Concluded my journey of sharpening my skills in the fields of Data Structures, Algorithms, System Architecture Design and Low Level Programming via online platforms like Leetcode and HelloInterview",
                 "links": []
-            }, 
-            {
-                "text": "Concluded the implementation of RaDAR [1], my own AI agent job hunting assistance tool",
-                "links": [
-                    "https://muditgarg48.github.io/radar_frontend"
-                ]
             }
         ],
         "outer_para": "I am always eager to collaborate on solving problems and contributing to the growth of a cause. Feel free to contact me via LinkedIn or email.",
